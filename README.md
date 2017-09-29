@@ -1,3 +1,3 @@
 # Curated list of my Ionic projects
-This repository contains list of projects developed in Ionic framework
+This repository contains list of projects developed using Ionic framework
 <hr>
