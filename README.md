@@ -1,4 +1,4 @@
-# Curated list of my Ionic projects
+# Curated list of my Ionic projects / Hybrid Mobile Application Development Projects
 This repository contains list of projects developed using Ionic framework (Ionic 2+)
 <hr>
 
