@@ -7,5 +7,5 @@ This repository contains list of projects developed using Ionic framework (Ionic
 <li><a href= "https://github.com/patilankita79/Ionic3-WeatherApp"> WeatherApp </a></li>
 <li><a href="https://github.com/patilankita79/MobileAppForScienceAndTechnologyEntryProgram"> Mobile app for STEP program </a>  </li>
 <li><a href="https://github.com/patilankita79/Ionic3-ShoppingListMobileApplication
-"> ShoppingList App </a>  <li>
+"> ShoppingList App </a>  </li>
 </ol>
